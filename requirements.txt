@@ -4,4 +4,4 @@ tensorflow==2.20.0
 tf-keras
 opencv-python
 Pillow
-
+python-vlc
