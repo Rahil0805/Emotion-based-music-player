@@ -1,7 +1,7 @@
+streamlit
 opencv-python
 deepface
+pillow
 customtkinter
-Pillow
-python-vlc
+vlc
 numpy
-tk
