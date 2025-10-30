@@ -1,9 +1,5 @@
-streamlit
-deepface
-tensorflow==2.15.0
+streamlit==1.51.0
+deepface==0.0.95
+tensorflow==2.20.0
 tf-keras
-opencv-python
-pillow
-numpy
-python-vlc
 
