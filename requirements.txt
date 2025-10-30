@@ -1,0 +1,7 @@
+opencv-python
+deepface
+customtkinter
+Pillow
+python-vlc
+numpy
+tk
